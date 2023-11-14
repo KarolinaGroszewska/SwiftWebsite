@@ -1,5 +1,5 @@
-**Bio:**
-Welcome to my digital space! I'm Eleanor Swift, a passionate and driven second-year university student pursuing a degree in Computer Science. My journey in the world of technology has been a thrilling adventure, and I'm excited to share some highlights with you.
+**Education:**
+I am currently enrolled in the Computer Science program at Meadowbrook University. My coursework has equipped me with a strong foundation in algorithms, data structures, and software development methodologies. I am excited about the opportunities for learning and growth that this academic journey presents.
 
 **Work Experience:**
 1. **Software Development Intern - XYZ Tech Solutions (Summer 2023):**
@@ -27,5 +27,4 @@ Welcome to my digital space! I'm Eleanor Swift, a passionate and driven second-y
 2. **STEM Outreach Volunteer:**
    - Volunteered at local schools to promote STEM education, conducting coding workshops for middle school students.
 
-**Current University:**
-I am currently enrolled in the Computer Science program at Meadowbrook University. My coursework has equipped me with a strong foundation in algorithms, data structures, and software development methodologies. I am excited about the opportunities for learning and growth that this academic journey presents.
+
