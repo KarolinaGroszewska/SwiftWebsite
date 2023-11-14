@@ -1,5 +1,7 @@
 **Education:**
+
 **_Meadowbrook University_**: _Bachelors of Science in Computer Science_
+
 Relevant Coursework: Data Structures, Introduction to Software Development, Programming Languages, Computer Architecture
 
 **Work Experience:**
