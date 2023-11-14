@@ -3055,9 +3055,26 @@ input, select, textarea {
 
 		@media screen and (max-width: 1680px) {
 
-			.spotlights > section > .content {
-				padding: 4em 4em 2em 4em ;
+			.spotlights > section {
+				display: block;
 			}
+
+				.spotlights > section > .image {
+					width: 100%;
+					height: 50vh;
+				}
+
+				.spotlights > section > .content {
+					width: 100%;
+				}
+
+				.spotlights > section.inactive > .content > .inner,
+				body.is-preload .spotlights > section > .content > .inner {
+					-moz-transform: translateY(1em);
+					-webkit-transform: translateY(1em);
+					-ms-transform: translateY(1em);
+					transform: translateY(1em);
+				}
 
 		}
 
